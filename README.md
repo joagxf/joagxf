@@ -1,6 +1,6 @@
-![IMAGE ALT](https://github.com/joagxf/joagxf/blob/a03564788332f5d85653063000a8928505c1a1b4/AmazingJose1.png)
+![IMAGE ALT](https://github.com/joagxf/joagxf/blob/565be217b6a37b09196d3abbc7709f135cd73a4a/AmazingJose2.png)
 
-## Hi 👋
+## Hi, WELCOME 👋
 
 <!--
 **joagxf/joagxf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
