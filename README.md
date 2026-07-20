@@ -1,3 +1,5 @@
+![IMAGE ALT](https://github.com/joagxf/joagxf/blob/a03564788332f5d85653063000a8928505c1a1b4/AmazingJose1.png)
+
 ## Hi 👋
 
 <!--
